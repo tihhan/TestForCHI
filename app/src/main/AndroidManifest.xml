@@ -23,6 +23,9 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".FragmentHostActivity"/>
+   
+
     <activity
         android:name=".AddUserActivity"
         android:label="Add User Activity" >
