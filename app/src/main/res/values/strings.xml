@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">TestForCHI</string>
+    <string name="app_name">level2Burger</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="is_student">Is Student</string>
+    <string name="sort_by_age">Sort by Age</string>
+    <string name="sort_by_student_status">Sort by Student Status</string>
+    <string name="sort_by_name">Sort by Name</string>
+    <string name="sort_by_description">Sort by Description</string>
+    <string name="add_user">Add User</string>
+    <string name="back">Back</string>
+    <string name="description">Description</string>
+    <string name="date_of_birth">Date of Birth</string>
+
 </resources>

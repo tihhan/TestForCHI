@@ -1,0 +1,29 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/menu_sort_by_name"
+        android:title="@string/sort_by_name"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+
+        />
+
+    <item
+        android:id="@+id/menu_sort_by_age"
+        android:title="@string/sort_by_age"
+        android:orderInCategory="102"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_sort_by_student_status"
+        android:title="@string/sort_by_student_status"
+        android:orderInCategory="103"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_sort_by_description"
+        android:title="@string/sort_by_description"
+        android:orderInCategory="104"
+        app:showAsAction="never" />
+</menu>
